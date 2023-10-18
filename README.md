@@ -21,17 +21,11 @@
   - 🎯 **User-Centric:** I'm dedicated to creating web experiences that prioritize the user's needs and expectations.
 </p>
 
-<p>
-  - 📖 **Continuous Learning:** The tech world evolves rapidly, and I'm committed to staying up-to-date with the latest trends and tools.
-</p>
+<span> - <span>  📖 **Continuous Learning:** The tech world evolves rapidly, and I'm committed to staying up-to-date with the latest trends and tools.
 
-<p>
-  - 🤝 **Collaboration:** I thrive in an environment where diverse perspectives come together to create something extraordinary.
-</p>
+<span> - </span> 🤝 **Collaboration:** I thrive in an environment where diverse perspectives come together to create something extraordinary.
 
-<p>
-  - 🧩 **Problem Solving**: I enjoy tackling complex challenges and turning them into elegant solutions.
-</p>
+<span> - <span> 🧩 **Problem Solving**: I enjoy tackling complex challenges and turning them into elegant solutions.
 
 <h2>📫 Let's Connect!</h2>
 
