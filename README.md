@@ -37,7 +37,7 @@
 </p>
 
 <p>
-  - 🧩 **Problem Solving:** I enjoy tackling complex challenges and turning them into elegant solutions.
+  - 🧩 **Problem Solving**: I enjoy tackling complex challenges and turning them into elegant solutions.
 </p>
 
 <h2>📫 Let's Connect!</h2>
@@ -53,8 +53,3 @@
 <p align="center">
   Thank you for visiting my profile, and I look forward to connecting with you!
 </p>
-
-<p align="center">
-  <img src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/160/apple/237/waving-hand-sign_1f44b.png" width="30px"> <img src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/160/apple/237/waving-hand-sign_1f44b.png" width="30px">
-</p>
-
