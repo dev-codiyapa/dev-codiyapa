@@ -1,22 +1,15 @@
 <h1 align="center">Hello, I'm Krishna </h1>
-
 <p align="center">
   🚀 Forward-thinking developer with over 8 years of experience in Front-end development. 🚀
 </p>
 
 <h2>🎯 What I Bring to the Table</h2>
 
-<p>
-  - 🛠️ ```Skills:``` My toolkit includes HTML, CSS, SASS, JavaScript, jQuery, React JS, Angular JS, Next.js, Nest.js, Jest, React Testing Library, Docker, GraphQL, and Restful Web Services.
-</p>
+ <span>-<span> 🛠️ **Skills:** My toolkit includes HTML, CSS, SASS, JavaScript, jQuery, React JS, Angular JS, Next.js, Nest.js, Jest, React Testing Library, Docker, GraphQL, and Restful Web Services. 
 
-<p>
-  - 🎨 **Design Systems:** I have a passion for crafting consistent and user-friendly design systems, ensuring that every user's experience is seamless and enjoyable.
-</p>
+<span> - </span> 🎨 **Design Systems:** I have a passion for crafting consistent and user-friendly design systems, ensuring that every user's experience is seamless and enjoyable.
 
-<p>
-  - 📚 **In-House Libraries:** I've had the opportunity to build in-house libraries, streamlining development processes and fostering a culture of efficiency and collaboration.
-</p>
+<span> -</span> 📚 **In-House Libraries:** I've had the opportunity to build in-house libraries, streamlining development processes and fostering a culture of efficiency and collaboration.
 
 <h2>🚀 My Development Philosophy</h2>
 
