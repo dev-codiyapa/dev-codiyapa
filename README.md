@@ -17,9 +17,7 @@
   I believe in pushing the boundaries of what's possible in the world of front-end development. Here are some key aspects of my approach:
 </p>
 
-<p>
-  - 🎯 **User-Centric:** I'm dedicated to creating web experiences that prioritize the user's needs and expectations.
-</p>
+<span> - <span> 🎯 **User-Centric:** I'm dedicated to creating web experiences that prioritize the user's needs and expectations.
 
 <span> - <span>  📖 **Continuous Learning:** The tech world evolves rapidly, and I'm committed to staying up-to-date with the latest trends and tools.
 
