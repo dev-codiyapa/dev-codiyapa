@@ -5,11 +5,11 @@
 
 <h2>🎯 What I Bring to the Table</h2>
 
- <span>-<span> 🛠️ **Skills:** My toolkit includes HTML, CSS, SASS, JavaScript, jQuery, React JS, Angular JS, Next.js, Nest.js, Jest, React Testing Library, Docker, GraphQL, and Restful Web Services. 
+ <span>-<span> 🛠️ **Skills:** My toolkit includes HTML, CSS, SASS, JavaScript, jQuery, React JS, Angular JS, Next.js, Nest.js, Jest, React Testing Library, GraphQL, and Restful Web Services. 
 
 <span> - </span> 🎨 **Design Systems:** I have a passion for crafting consistent and user-friendly design systems, ensuring that every user's experience is seamless and enjoyable.
 
-<span> -</span> 📚 **In-House Libraries:** I've had the opportunity to build in-house libraries, streamlining development processes and fostering a culture of efficiency and collaboration.
+<span> -</span> 📚 **In-House Libraries:** I've had the opportunity to build in-house libraries called SPLICE, streamlining development processes and fostering a culture of efficiency and collaboration.
 
 <h2>🚀 My Development Philosophy</h2>
 
