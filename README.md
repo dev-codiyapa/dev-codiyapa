@@ -1,6 +1,4 @@
-<h1 align="center">
-  <img src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/160/apple/237/waving-hand-sign_1f44b.png" width="30px"> Hello, I'm [Your Name] <img src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/160/apple/237/waving-hand-sign_1f44b.png" width="30px">
-</h1>
+<h1 align="center">Hello, I'm Krishna </h1>
 
 <p align="center">
   🚀 Forward-thinking developer with over 8 years of experience in Front-end development. 🚀
@@ -9,7 +7,7 @@
 <h2>🎯 What I Bring to the Table</h2>
 
 <p>
-  - 🛠️ **Skills:** My toolkit includes HTML, CSS, SASS, JavaScript, jQuery, React JS, Angular JS, Next.js, Nest.js, Jest, React Testing Library, Docker, GraphQL, and Restful Web Services.
+  - 🛠️ ** Skills: ** My toolkit includes HTML, CSS, SASS, JavaScript, jQuery, React JS, Angular JS, Next.js, Nest.js, Jest, React Testing Library, Docker, GraphQL, and Restful Web Services.
 </p>
 
 <p>
