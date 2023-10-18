@@ -7,7 +7,7 @@
 <h2>🎯 What I Bring to the Table</h2>
 
 <p>
-  - 🛠️ **Skills:** My toolkit includes HTML, CSS, SASS, JavaScript, jQuery, React JS, Angular JS, Next.js, Nest.js, Jest, React Testing Library, Docker, GraphQL, and Restful Web Services.
+  - 🛠️ ```Skills:``` My toolkit includes HTML, CSS, SASS, JavaScript, jQuery, React JS, Angular JS, Next.js, Nest.js, Jest, React Testing Library, Docker, GraphQL, and Restful Web Services.
 </p>
 
 <p>
